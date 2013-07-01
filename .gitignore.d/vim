@@ -1,0 +1,9 @@
+*
+!/.gvimrc
+!/.vim
+!/.vim/bundles.vim
+!/.vimrc
+!/.vim/snippets
+!/.vim/snippets/javascript.snip
+!/.vim/snippets/python.snip
+!/.vim/snippets/sh.snip
